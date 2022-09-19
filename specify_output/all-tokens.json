@@ -1,0 +1,1779 @@
+[
+    {
+        "id": "e22acfc6-5bc9-4c09-b328-857ce3758b56",
+        "createdAt": "2022-06-03T13:56:29.595Z",
+        "updatedAt": "2022-06-03T13:56:29.595Z",
+        "name": "100",
+        "value": {
+            "font": {
+                "id": "f4303e22-4788-4b08-8148-1c6fd58f955d",
+                "createdAt": "2022-06-03T13:56:29.595Z",
+                "updatedAt": "2022-06-17T08:01:20.849Z",
+                "name": "SFProDisplay-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "SF Pro Display",
+                    "fontWeight": 400,
+                    "fontFileMissing": true,
+                    "fontPostScriptName": "SFProDisplay-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/c689e945-ea8c-45a6-bc14-a2830caa7a0b/font/SFProDisplay-Regular/SFProDisplay-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWONAZRBLTS&Expires=1655456482&Signature=9x9aHl6PnMKGOq5YSkfVnjojIVA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCymlO2ySIlO9trWFOaAJbDrnylzAztmciFC5Jxv0faywIhAK%2FnWQqxOzZhG43JVPKULOKqiTequC1aHG%2FW1dhS1MkUKvgDCM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMNTc0MTAyNjQ0MTI0IgwFSIt7oPPWrtYjAr0qzANWc%2FWbdYZstYJ4NiqT8qJ1xWXIZMKHOV5wK19j%2FtZ9IpZWTYhFbwu4UH%2FzbnIn%2FidzhnECK%2BTXeeeSHk2Bxv5Ru7Za9En%2FQDbJfTO1FipLck6egogPm6S7ZKEgTmE5YK0gg8UOlmIiEPEY3gsGP64eXzA4rje2wppZJXXCDRKB1DsTXQAaPPdoRNQTbCJBipXgnQbQ2Sd%2B%2F33QjEE1qYjqBUThbPyLPt9SjVeUNZqaMYxFZGJIWab81eAhuT5obUEzJj%2BTbXVhNV%2BYufJwK3ADYiVoM7CHmUtrgE%2BRw3itpZK2pcK8JucEbgffwo2W1k0AN43efijdih2mdwwFbyguafTzl6gK2VaGEyGXRU7HWvjKDTblVosXBSFt5n%2BsjnsI6P633LL8CLIRt0XizQlS99lRI0FzZ3tjAT6yDdZZ3EBODbPH%2BJqBXNkTLibQ%2Fdjxf2%2F%2FLPr7cdYRhnf7H4ZV3dUkJ92pNzZ3DXCVu%2FjEGJdUzv11h7eFZ5z38DBwd8M9VggsnLap0SdcDFX%2F0aUZAEYSD6xX4taR8HKX2%2Fi0gMDIp%2F5oKrEpupitDopzh2bCIZ5p0J57kO1j9BY4JGzQJ0pm0ZrLlWmLe2RkMIujsJUGOqQBHm3HddDW%2BQaU%2BhbtbLKRx3QBwyezPxcUqrlc0nh5FG3tcyuwAPfI1TsmE%2FuLTPEFU%2FiZ1q7dkDrird1%2FmmkgfTDUYYqawzPln5vzYZEl%2FNDJmuJSVN3AN7AyvVBckp3VVNHJDqbx0tCu1lNIDYU8iyIb3Qn3C6V2S8vZxKLYi3d0A8tDg1Ay9AOA%2FRA%2BhppsT5V2WxKegFkGYG3R0P08laDyCw8%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "SFProDisplay-Regular",
+                "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+                "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 16
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 22.399999618530273
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "146:156",
+        "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "06446fec-ac6f-4006-ab73-a2954728b99e",
+        "createdAt": "2022-06-03T13:56:29.595Z",
+        "updatedAt": "2022-06-03T13:56:29.595Z",
+        "name": "200",
+        "value": {
+            "font": {
+                "id": "f4303e22-4788-4b08-8148-1c6fd58f955d",
+                "createdAt": "2022-06-03T13:56:29.595Z",
+                "updatedAt": "2022-06-17T08:01:20.849Z",
+                "name": "SFProDisplay-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "SF Pro Display",
+                    "fontWeight": 400,
+                    "fontFileMissing": true,
+                    "fontPostScriptName": "SFProDisplay-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/c689e945-ea8c-45a6-bc14-a2830caa7a0b/font/SFProDisplay-Regular/SFProDisplay-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWONAZRBLTS&Expires=1655456482&Signature=9x9aHl6PnMKGOq5YSkfVnjojIVA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCymlO2ySIlO9trWFOaAJbDrnylzAztmciFC5Jxv0faywIhAK%2FnWQqxOzZhG43JVPKULOKqiTequC1aHG%2FW1dhS1MkUKvgDCM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMNTc0MTAyNjQ0MTI0IgwFSIt7oPPWrtYjAr0qzANWc%2FWbdYZstYJ4NiqT8qJ1xWXIZMKHOV5wK19j%2FtZ9IpZWTYhFbwu4UH%2FzbnIn%2FidzhnECK%2BTXeeeSHk2Bxv5Ru7Za9En%2FQDbJfTO1FipLck6egogPm6S7ZKEgTmE5YK0gg8UOlmIiEPEY3gsGP64eXzA4rje2wppZJXXCDRKB1DsTXQAaPPdoRNQTbCJBipXgnQbQ2Sd%2B%2F33QjEE1qYjqBUThbPyLPt9SjVeUNZqaMYxFZGJIWab81eAhuT5obUEzJj%2BTbXVhNV%2BYufJwK3ADYiVoM7CHmUtrgE%2BRw3itpZK2pcK8JucEbgffwo2W1k0AN43efijdih2mdwwFbyguafTzl6gK2VaGEyGXRU7HWvjKDTblVosXBSFt5n%2BsjnsI6P633LL8CLIRt0XizQlS99lRI0FzZ3tjAT6yDdZZ3EBODbPH%2BJqBXNkTLibQ%2Fdjxf2%2F%2FLPr7cdYRhnf7H4ZV3dUkJ92pNzZ3DXCVu%2FjEGJdUzv11h7eFZ5z38DBwd8M9VggsnLap0SdcDFX%2F0aUZAEYSD6xX4taR8HKX2%2Fi0gMDIp%2F5oKrEpupitDopzh2bCIZ5p0J57kO1j9BY4JGzQJ0pm0ZrLlWmLe2RkMIujsJUGOqQBHm3HddDW%2BQaU%2BhbtbLKRx3QBwyezPxcUqrlc0nh5FG3tcyuwAPfI1TsmE%2FuLTPEFU%2FiZ1q7dkDrird1%2FmmkgfTDUYYqawzPln5vzYZEl%2FNDJmuJSVN3AN7AyvVBckp3VVNHJDqbx0tCu1lNIDYU8iyIb3Qn3C6V2S8vZxKLYi3d0A8tDg1Ay9AOA%2FRA%2BhppsT5V2WxKegFkGYG3R0P08laDyCw8%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "SFProDisplay-Regular",
+                "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+                "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 24
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 33.599998474121094
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "146:157",
+        "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "79832d54-60d6-4ab4-a334-b52119b0979a",
+        "createdAt": "2022-06-03T13:56:29.595Z",
+        "updatedAt": "2022-06-03T13:56:29.595Z",
+        "name": "300",
+        "value": {
+            "font": {
+                "id": "f4303e22-4788-4b08-8148-1c6fd58f955d",
+                "createdAt": "2022-06-03T13:56:29.595Z",
+                "updatedAt": "2022-06-17T08:01:20.849Z",
+                "name": "SFProDisplay-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "SF Pro Display",
+                    "fontWeight": 400,
+                    "fontFileMissing": true,
+                    "fontPostScriptName": "SFProDisplay-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/c689e945-ea8c-45a6-bc14-a2830caa7a0b/font/SFProDisplay-Regular/SFProDisplay-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWONAZRBLTS&Expires=1655456482&Signature=9x9aHl6PnMKGOq5YSkfVnjojIVA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCymlO2ySIlO9trWFOaAJbDrnylzAztmciFC5Jxv0faywIhAK%2FnWQqxOzZhG43JVPKULOKqiTequC1aHG%2FW1dhS1MkUKvgDCM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMNTc0MTAyNjQ0MTI0IgwFSIt7oPPWrtYjAr0qzANWc%2FWbdYZstYJ4NiqT8qJ1xWXIZMKHOV5wK19j%2FtZ9IpZWTYhFbwu4UH%2FzbnIn%2FidzhnECK%2BTXeeeSHk2Bxv5Ru7Za9En%2FQDbJfTO1FipLck6egogPm6S7ZKEgTmE5YK0gg8UOlmIiEPEY3gsGP64eXzA4rje2wppZJXXCDRKB1DsTXQAaPPdoRNQTbCJBipXgnQbQ2Sd%2B%2F33QjEE1qYjqBUThbPyLPt9SjVeUNZqaMYxFZGJIWab81eAhuT5obUEzJj%2BTbXVhNV%2BYufJwK3ADYiVoM7CHmUtrgE%2BRw3itpZK2pcK8JucEbgffwo2W1k0AN43efijdih2mdwwFbyguafTzl6gK2VaGEyGXRU7HWvjKDTblVosXBSFt5n%2BsjnsI6P633LL8CLIRt0XizQlS99lRI0FzZ3tjAT6yDdZZ3EBODbPH%2BJqBXNkTLibQ%2Fdjxf2%2F%2FLPr7cdYRhnf7H4ZV3dUkJ92pNzZ3DXCVu%2FjEGJdUzv11h7eFZ5z38DBwd8M9VggsnLap0SdcDFX%2F0aUZAEYSD6xX4taR8HKX2%2Fi0gMDIp%2F5oKrEpupitDopzh2bCIZ5p0J57kO1j9BY4JGzQJ0pm0ZrLlWmLe2RkMIujsJUGOqQBHm3HddDW%2BQaU%2BhbtbLKRx3QBwyezPxcUqrlc0nh5FG3tcyuwAPfI1TsmE%2FuLTPEFU%2FiZ1q7dkDrird1%2FmmkgfTDUYYqawzPln5vzYZEl%2FNDJmuJSVN3AN7AyvVBckp3VVNHJDqbx0tCu1lNIDYU8iyIb3Qn3C6V2S8vZxKLYi3d0A8tDg1Ay9AOA%2FRA%2BhppsT5V2WxKegFkGYG3R0P08laDyCw8%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "SFProDisplay-Regular",
+                "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+                "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 28
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 39.20000076293945
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "146:158",
+        "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "4bc5e00e-8931-46c9-ba4e-08f4b0afdd85",
+        "createdAt": "2022-06-03T13:56:29.595Z",
+        "updatedAt": "2022-06-03T13:56:29.595Z",
+        "name": "400",
+        "value": {
+            "font": {
+                "id": "f4303e22-4788-4b08-8148-1c6fd58f955d",
+                "createdAt": "2022-06-03T13:56:29.595Z",
+                "updatedAt": "2022-06-17T08:01:20.849Z",
+                "name": "SFProDisplay-Regular",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "SF Pro Display",
+                    "fontWeight": 400,
+                    "fontFileMissing": true,
+                    "fontPostScriptName": "SFProDisplay-Regular",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/c689e945-ea8c-45a6-bc14-a2830caa7a0b/font/SFProDisplay-Regular/SFProDisplay-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWONAZRBLTS&Expires=1655456482&Signature=9x9aHl6PnMKGOq5YSkfVnjojIVA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCymlO2ySIlO9trWFOaAJbDrnylzAztmciFC5Jxv0faywIhAK%2FnWQqxOzZhG43JVPKULOKqiTequC1aHG%2FW1dhS1MkUKvgDCM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMNTc0MTAyNjQ0MTI0IgwFSIt7oPPWrtYjAr0qzANWc%2FWbdYZstYJ4NiqT8qJ1xWXIZMKHOV5wK19j%2FtZ9IpZWTYhFbwu4UH%2FzbnIn%2FidzhnECK%2BTXeeeSHk2Bxv5Ru7Za9En%2FQDbJfTO1FipLck6egogPm6S7ZKEgTmE5YK0gg8UOlmIiEPEY3gsGP64eXzA4rje2wppZJXXCDRKB1DsTXQAaPPdoRNQTbCJBipXgnQbQ2Sd%2B%2F33QjEE1qYjqBUThbPyLPt9SjVeUNZqaMYxFZGJIWab81eAhuT5obUEzJj%2BTbXVhNV%2BYufJwK3ADYiVoM7CHmUtrgE%2BRw3itpZK2pcK8JucEbgffwo2W1k0AN43efijdih2mdwwFbyguafTzl6gK2VaGEyGXRU7HWvjKDTblVosXBSFt5n%2BsjnsI6P633LL8CLIRt0XizQlS99lRI0FzZ3tjAT6yDdZZ3EBODbPH%2BJqBXNkTLibQ%2Fdjxf2%2F%2FLPr7cdYRhnf7H4ZV3dUkJ92pNzZ3DXCVu%2FjEGJdUzv11h7eFZ5z38DBwd8M9VggsnLap0SdcDFX%2F0aUZAEYSD6xX4taR8HKX2%2Fi0gMDIp%2F5oKrEpupitDopzh2bCIZ5p0J57kO1j9BY4JGzQJ0pm0ZrLlWmLe2RkMIujsJUGOqQBHm3HddDW%2BQaU%2BhbtbLKRx3QBwyezPxcUqrlc0nh5FG3tcyuwAPfI1TsmE%2FuLTPEFU%2FiZ1q7dkDrird1%2FmmkgfTDUYYqawzPln5vzYZEl%2FNDJmuJSVN3AN7AyvVBckp3VVNHJDqbx0tCu1lNIDYU8iyIb3Qn3C6V2S8vZxKLYi3d0A8tDg1Ay9AOA%2FRA%2BhppsT5V2WxKegFkGYG3R0P08laDyCw8%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "SFProDisplay-Regular",
+                "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+                "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 32
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 44.79999923706055
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "146:168",
+        "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "69485dc4-272c-4970-99e6-9766f49e5cd8",
+        "createdAt": "2022-06-03T13:56:29.595Z",
+        "updatedAt": "2022-06-03T13:56:29.595Z",
+        "name": "500",
+        "value": {
+            "font": {
+                "id": "59503885-3eee-48ac-8180-b834b73f278c",
+                "createdAt": "2022-06-03T13:53:32.722Z",
+                "updatedAt": "2022-06-17T08:01:20.849Z",
+                "name": "SFProDisplay-Medium",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "SF Pro Display",
+                    "fontWeight": 500,
+                    "fontFileMissing": true,
+                    "fontPostScriptName": "SFProDisplay-Medium",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/c689e945-ea8c-45a6-bc14-a2830caa7a0b/font/SFProDisplay-Medium/SFProDisplay-Medium.ttf?AWSAccessKeyId=ASIAYLKZPEWONAZRBLTS&Expires=1655456482&Signature=4YMwipTHo2dcVHBWdYZoKwswMb4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCymlO2ySIlO9trWFOaAJbDrnylzAztmciFC5Jxv0faywIhAK%2FnWQqxOzZhG43JVPKULOKqiTequC1aHG%2FW1dhS1MkUKvgDCM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMNTc0MTAyNjQ0MTI0IgwFSIt7oPPWrtYjAr0qzANWc%2FWbdYZstYJ4NiqT8qJ1xWXIZMKHOV5wK19j%2FtZ9IpZWTYhFbwu4UH%2FzbnIn%2FidzhnECK%2BTXeeeSHk2Bxv5Ru7Za9En%2FQDbJfTO1FipLck6egogPm6S7ZKEgTmE5YK0gg8UOlmIiEPEY3gsGP64eXzA4rje2wppZJXXCDRKB1DsTXQAaPPdoRNQTbCJBipXgnQbQ2Sd%2B%2F33QjEE1qYjqBUThbPyLPt9SjVeUNZqaMYxFZGJIWab81eAhuT5obUEzJj%2BTbXVhNV%2BYufJwK3ADYiVoM7CHmUtrgE%2BRw3itpZK2pcK8JucEbgffwo2W1k0AN43efijdih2mdwwFbyguafTzl6gK2VaGEyGXRU7HWvjKDTblVosXBSFt5n%2BsjnsI6P633LL8CLIRt0XizQlS99lRI0FzZ3tjAT6yDdZZ3EBODbPH%2BJqBXNkTLibQ%2Fdjxf2%2F%2FLPr7cdYRhnf7H4ZV3dUkJ92pNzZ3DXCVu%2FjEGJdUzv11h7eFZ5z38DBwd8M9VggsnLap0SdcDFX%2F0aUZAEYSD6xX4taR8HKX2%2Fi0gMDIp%2F5oKrEpupitDopzh2bCIZ5p0J57kO1j9BY4JGzQJ0pm0ZrLlWmLe2RkMIujsJUGOqQBHm3HddDW%2BQaU%2BhbtbLKRx3QBwyezPxcUqrlc0nh5FG3tcyuwAPfI1TsmE%2FuLTPEFU%2FiZ1q7dkDrird1%2FmmkgfTDUYYqawzPln5vzYZEl%2FNDJmuJSVN3AN7AyvVBckp3VVNHJDqbx0tCu1lNIDYU8iyIb3Qn3C6V2S8vZxKLYi3d0A8tDg1Ay9AOA%2FRA%2BhppsT5V2WxKegFkGYG3R0P08laDyCw8%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "SFProDisplay-Medium",
+                "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+                "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 40
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 48
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "146:169",
+        "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "a775cae5-1875-4eb6-949b-2a695dcbb8bc",
+        "createdAt": "2022-06-03T13:56:29.607Z",
+        "updatedAt": "2022-06-03T13:56:29.607Z",
+        "name": "600",
+        "value": {
+            "font": {
+                "id": "cf181cff-bf81-413f-b5c1-5f79f266a5a9",
+                "createdAt": "2022-06-02T11:29:38.311Z",
+                "updatedAt": "2022-06-17T08:01:20.849Z",
+                "name": "Inter-Medium",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Google Fonts",
+                    "fontFamily": "Inter",
+                    "fontWeight": 500,
+                    "fontFileMissing": false,
+                    "fontPostScriptName": "Inter-Medium",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/c689e945-ea8c-45a6-bc14-a2830caa7a0b/font/Inter-Medium/Inter-Medium.ttf?AWSAccessKeyId=ASIAYLKZPEWONAZRBLTS&Expires=1655456482&Signature=XdKwvY7LCLyNfvhmylGUtugG7Pc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCymlO2ySIlO9trWFOaAJbDrnylzAztmciFC5Jxv0faywIhAK%2FnWQqxOzZhG43JVPKULOKqiTequC1aHG%2FW1dhS1MkUKvgDCM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMNTc0MTAyNjQ0MTI0IgwFSIt7oPPWrtYjAr0qzANWc%2FWbdYZstYJ4NiqT8qJ1xWXIZMKHOV5wK19j%2FtZ9IpZWTYhFbwu4UH%2FzbnIn%2FidzhnECK%2BTXeeeSHk2Bxv5Ru7Za9En%2FQDbJfTO1FipLck6egogPm6S7ZKEgTmE5YK0gg8UOlmIiEPEY3gsGP64eXzA4rje2wppZJXXCDRKB1DsTXQAaPPdoRNQTbCJBipXgnQbQ2Sd%2B%2F33QjEE1qYjqBUThbPyLPt9SjVeUNZqaMYxFZGJIWab81eAhuT5obUEzJj%2BTbXVhNV%2BYufJwK3ADYiVoM7CHmUtrgE%2BRw3itpZK2pcK8JucEbgffwo2W1k0AN43efijdih2mdwwFbyguafTzl6gK2VaGEyGXRU7HWvjKDTblVosXBSFt5n%2BsjnsI6P633LL8CLIRt0XizQlS99lRI0FzZ3tjAT6yDdZZ3EBODbPH%2BJqBXNkTLibQ%2Fdjxf2%2F%2FLPr7cdYRhnf7H4ZV3dUkJ92pNzZ3DXCVu%2FjEGJdUzv11h7eFZ5z38DBwd8M9VggsnLap0SdcDFX%2F0aUZAEYSD6xX4taR8HKX2%2Fi0gMDIp%2F5oKrEpupitDopzh2bCIZ5p0J57kO1j9BY4JGzQJ0pm0ZrLlWmLe2RkMIujsJUGOqQBHm3HddDW%2BQaU%2BhbtbLKRx3QBwyezPxcUqrlc0nh5FG3tcyuwAPfI1TsmE%2FuLTPEFU%2FiZ1q7dkDrird1%2FmmkgfTDUYYqawzPln5vzYZEl%2FNDJmuJSVN3AN7AyvVBckp3VVNHJDqbx0tCu1lNIDYU8iyIb3Qn3C6V2S8vZxKLYi3d0A8tDg1Ay9AOA%2FRA%2BhppsT5V2WxKegFkGYG3R0P08laDyCw8%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "Inter-Medium",
+                "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+                "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 48
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 57.60000228881836
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "146:170",
+        "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "6f14c2eb-6d1a-48d3-aef0-f7f58dcecf64",
+        "createdAt": "2022-06-03T13:56:29.595Z",
+        "updatedAt": "2022-06-03T13:56:29.595Z",
+        "name": "700",
+        "value": {
+            "font": {
+                "id": "59503885-3eee-48ac-8180-b834b73f278c",
+                "createdAt": "2022-06-03T13:53:32.722Z",
+                "updatedAt": "2022-06-17T08:01:20.849Z",
+                "name": "SFProDisplay-Medium",
+                "value": {
+                    "format": "ttf",
+                    "isItalic": false,
+                    "provider": "Custom font",
+                    "fontFamily": "SF Pro Display",
+                    "fontWeight": 500,
+                    "fontFileMissing": true,
+                    "fontPostScriptName": "SFProDisplay-Medium",
+                    "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/c689e945-ea8c-45a6-bc14-a2830caa7a0b/font/SFProDisplay-Medium/SFProDisplay-Medium.ttf?AWSAccessKeyId=ASIAYLKZPEWONAZRBLTS&Expires=1655456482&Signature=4YMwipTHo2dcVHBWdYZoKwswMb4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCymlO2ySIlO9trWFOaAJbDrnylzAztmciFC5Jxv0faywIhAK%2FnWQqxOzZhG43JVPKULOKqiTequC1aHG%2FW1dhS1MkUKvgDCM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMNTc0MTAyNjQ0MTI0IgwFSIt7oPPWrtYjAr0qzANWc%2FWbdYZstYJ4NiqT8qJ1xWXIZMKHOV5wK19j%2FtZ9IpZWTYhFbwu4UH%2FzbnIn%2FidzhnECK%2BTXeeeSHk2Bxv5Ru7Za9En%2FQDbJfTO1FipLck6egogPm6S7ZKEgTmE5YK0gg8UOlmIiEPEY3gsGP64eXzA4rje2wppZJXXCDRKB1DsTXQAaPPdoRNQTbCJBipXgnQbQ2Sd%2B%2F33QjEE1qYjqBUThbPyLPt9SjVeUNZqaMYxFZGJIWab81eAhuT5obUEzJj%2BTbXVhNV%2BYufJwK3ADYiVoM7CHmUtrgE%2BRw3itpZK2pcK8JucEbgffwo2W1k0AN43efijdih2mdwwFbyguafTzl6gK2VaGEyGXRU7HWvjKDTblVosXBSFt5n%2BsjnsI6P633LL8CLIRt0XizQlS99lRI0FzZ3tjAT6yDdZZ3EBODbPH%2BJqBXNkTLibQ%2Fdjxf2%2F%2FLPr7cdYRhnf7H4ZV3dUkJ92pNzZ3DXCVu%2FjEGJdUzv11h7eFZ5z38DBwd8M9VggsnLap0SdcDFX%2F0aUZAEYSD6xX4taR8HKX2%2Fi0gMDIp%2F5oKrEpupitDopzh2bCIZ5p0J57kO1j9BY4JGzQJ0pm0ZrLlWmLe2RkMIujsJUGOqQBHm3HddDW%2BQaU%2BhbtbLKRx3QBwyezPxcUqrlc0nh5FG3tcyuwAPfI1TsmE%2FuLTPEFU%2FiZ1q7dkDrird1%2FmmkgfTDUYYqawzPln5vzYZEl%2FNDJmuJSVN3AN7AyvVBckp3VVNHJDqbx0tCu1lNIDYU8iyIb3Qn3C6V2S8vZxKLYi3d0A8tDg1Ay9AOA%2FRA%2BhppsT5V2WxKegFkGYG3R0P08laDyCw8%3D"
+                },
+                "meta": {
+                    "source": "localStyles"
+                },
+                "type": "font",
+                "originId": "SFProDisplay-Medium",
+                "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+                "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+            },
+            "fontSize": {
+                "value": {
+                    "unit": "px",
+                    "measure": 68
+                }
+            },
+            "textAlign": {
+                "vertical": "top",
+                "horizontal": "left"
+            },
+            "lineHeight": {
+                "value": {
+                    "unit": "px",
+                    "measure": 68
+                }
+            }
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "textStyle",
+        "originId": "146:175",
+        "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "b60ff39e-23b1-40d5-9243-64d383bcf75a",
+        "createdAt": "2022-06-07T08:21:24.239Z",
+        "updatedAt": "2022-06-16T08:01:31.372Z",
+        "name": "add-circle-fill",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a661d0bf-8ec2-4e0f-871e-44238f6a74be",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "test token",
+            "page": "Page",
+            "frame": "add-circle-fill",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "icon"
+        },
+        "type": "vector",
+        "originId": "147:471-svg-1",
+        "sourceId": "6d8122e2-a13a-4c3b-8232-a2c855dc22d1",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "84c2d21f-bc11-4966-b623-3c2ec6a8da16",
+        "createdAt": "2022-06-07T08:21:24.238Z",
+        "updatedAt": "2022-06-16T08:01:31.384Z",
+        "name": "add-circle-outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7e09a695-d6e9-4317-bbc5-89662e6ae021",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "test token",
+            "page": "Page",
+            "frame": "add-circle-outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "icon"
+        },
+        "type": "vector",
+        "originId": "147:467-svg-1",
+        "sourceId": "6d8122e2-a13a-4c3b-8232-a2c855dc22d1",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "7b6aa784-597e-4d22-ab53-0c178a0db2b5",
+        "createdAt": "2022-06-07T08:21:24.229Z",
+        "updatedAt": "2022-06-16T08:01:31.373Z",
+        "name": "arrow-bigarrow / right",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b1d7d8c4-00f3-45b1-9682-55977e2193e6",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "test token",
+            "page": "Page",
+            "frame": "arrow-bigarrow / right",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "arrow-bigarrow"
+        },
+        "type": "vector",
+        "originId": "147:431-svg-1",
+        "sourceId": "6d8122e2-a13a-4c3b-8232-a2c855dc22d1",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "2a316ad5-88da-47cd-b430-b1ac1e40fc8e",
+        "createdAt": "2022-06-03T10:57:53.669Z",
+        "updatedAt": "2022-06-03T10:57:53.669Z",
+        "name": "Blue/100",
+        "value": {
+            "a": 1,
+            "b": 242,
+            "g": 205,
+            "r": 204
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:88",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "83f8f790-baee-496f-afc2-f03041782f2d",
+        "createdAt": "2022-06-03T10:57:53.549Z",
+        "updatedAt": "2022-06-03T10:57:53.549Z",
+        "name": "Blue/200",
+        "value": {
+            "a": 1,
+            "b": 229,
+            "g": 154,
+            "r": 153
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:87",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "65ece54b-293d-4910-a7d5-d6af9642d0eb",
+        "createdAt": "2022-06-03T10:57:53.550Z",
+        "updatedAt": "2022-06-03T10:57:53.550Z",
+        "name": "Blue/300",
+        "value": {
+            "a": 1,
+            "b": 222,
+            "g": 121,
+            "r": 119
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:86",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "4b35f63e-d718-409d-b94a-38351f0f1d82",
+        "createdAt": "2022-06-03T10:57:53.598Z",
+        "updatedAt": "2022-06-03T10:57:53.598Z",
+        "name": "Blue/400",
+        "value": {
+            "a": 1,
+            "b": 211,
+            "g": 73,
+            "r": 66
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:85",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "2c65983e-2d2c-4e1d-be75-a96d95ab709c",
+        "createdAt": "2022-06-03T10:57:53.661Z",
+        "updatedAt": "2022-06-03T10:57:53.661Z",
+        "name": "Blue/500 Base",
+        "value": {
+            "a": 1,
+            "b": 188,
+            "g": 46,
+            "r": 35
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:84",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "f1a8f904-e30d-4685-b640-47c4c6450e12",
+        "createdAt": "2022-06-03T10:57:53.659Z",
+        "updatedAt": "2022-06-03T10:57:53.659Z",
+        "name": "Blue/600",
+        "value": {
+            "a": 1,
+            "b": 148,
+            "g": 36,
+            "r": 28
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:83",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "6f63bf54-152f-4a69-bf96-1bae6e3055eb",
+        "createdAt": "2022-06-03T10:57:53.688Z",
+        "updatedAt": "2022-06-03T10:57:53.688Z",
+        "name": "Blue/700",
+        "value": {
+            "a": 1,
+            "b": 115,
+            "g": 28,
+            "r": 22
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:82",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "b4b585d7-4280-4c0d-8b2f-2121ee8aa980",
+        "createdAt": "2022-06-03T10:57:53.659Z",
+        "updatedAt": "2022-06-03T10:57:53.659Z",
+        "name": "Blue/800",
+        "value": {
+            "a": 1,
+            "b": 82,
+            "g": 19,
+            "r": 16
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:81",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "747d0ee8-2589-47c4-bb50-2ead232ca2ed",
+        "createdAt": "2022-06-03T10:57:53.658Z",
+        "updatedAt": "2022-06-03T10:57:53.658Z",
+        "name": "Blue/900",
+        "value": {
+            "a": 1,
+            "b": 49,
+            "g": 12,
+            "r": 9
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:80",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "9409615c-f4dc-4e66-b145-e565a737a3b8",
+        "createdAt": "2022-06-03T10:57:53.499Z",
+        "updatedAt": "2022-06-03T10:57:53.499Z",
+        "name": "Blue/Bright",
+        "value": {
+            "a": 1,
+            "b": 251,
+            "g": 238,
+            "r": 238
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:89",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "ec8b46f9-f0f6-444b-aa02-aec951b892a3",
+        "createdAt": "2022-06-03T10:57:53.634Z",
+        "updatedAt": "2022-06-03T10:57:53.634Z",
+        "name": "Blue/Dark",
+        "value": {
+            "a": 1,
+            "b": 16,
+            "g": 3,
+            "r": 3
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:79",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "26f327ae-a56d-4cd8-acda-e847d4fc5029",
+        "createdAt": "2022-06-07T08:21:24.245Z",
+        "updatedAt": "2022-06-16T08:01:31.384Z",
+        "name": "circle-fill",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a4c35d54-d6d8-48e5-a611-8e8ab5224291",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "test token",
+            "page": "Page",
+            "frame": "circle-fill",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "icon"
+        },
+        "type": "vector",
+        "originId": "147:470-svg-1",
+        "sourceId": "6d8122e2-a13a-4c3b-8232-a2c855dc22d1",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "5ca0a7cd-fe70-4877-93d1-2d9f422e5df3",
+        "createdAt": "2022-06-07T08:21:24.245Z",
+        "updatedAt": "2022-06-16T08:01:31.385Z",
+        "name": "circle-outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/47438865-f78c-41b3-9653-37f75efdc201",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "test token",
+            "page": "Page",
+            "frame": "circle-outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "icon"
+        },
+        "type": "vector",
+        "originId": "147:465-svg-1",
+        "sourceId": "6d8122e2-a13a-4c3b-8232-a2c855dc22d1",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "673a1c88-9939-4f16-a07e-9aa289e9a918",
+        "createdAt": "2022-06-07T08:21:24.232Z",
+        "updatedAt": "2022-06-16T08:01:31.372Z",
+        "name": "eye / false",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5285fd0b-90fe-4a36-9259-c6b81d190096",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "test token",
+            "page": "Page",
+            "frame": "eye / false",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "eye"
+        },
+        "type": "vector",
+        "originId": "147:323-svg-1",
+        "sourceId": "6d8122e2-a13a-4c3b-8232-a2c855dc22d1",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "fddf3eca-2023-4ed9-bed8-9756f2704e0e",
+        "createdAt": "2022-06-07T08:21:24.220Z",
+        "updatedAt": "2022-06-16T08:01:31.371Z",
+        "name": "eye / true",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/06d77335-d831-4486-9cc2-c24d133ae9d2",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "test token",
+            "page": "Page",
+            "frame": "eye / true",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "eye"
+        },
+        "type": "vector",
+        "originId": "147:321-svg-1",
+        "sourceId": "6d8122e2-a13a-4c3b-8232-a2c855dc22d1",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "619a7405-7cb9-4541-addc-1d541bbf0137",
+        "createdAt": "2022-06-03T13:53:31.760Z",
+        "updatedAt": "2022-06-03T13:53:31.760Z",
+        "name": "footer",
+        "value": {
+            "type": "solid",
+            "color": {
+                "value": {
+                    "a": 1,
+                    "b": 51,
+                    "g": 51,
+                    "r": 51
+                }
+            },
+            "radii": {
+                "value": {
+                    "unit": "px",
+                    "measure": 36
+                }
+            },
+            "width": {
+                "value": {
+                    "unit": "px",
+                    "measure": 2
+                }
+            },
+            "rectangleCornerRadii": [
+                {
+                    "value": {
+                        "unit": "px",
+                        "measure": 0
+                    }
+                },
+                {
+                    "value": {
+                        "unit": "px",
+                        "measure": 100
+                    }
+                },
+                {
+                    "value": {
+                        "unit": "px",
+                        "measure": 0
+                    }
+                },
+                {
+                    "value": {
+                        "unit": "px",
+                        "measure": 100
+                    }
+                }
+            ]
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/kk3d71BjHln0rt5JogiEaR",
+            "originFrameName": "Dark"
+        },
+        "type": "border",
+        "originId": "146:186",
+        "sourceId": "95d2b88c-870c-41c5-8ab9-2740fac21bc9",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "656be8c1-32c6-4b06-a859-af2ffb92d846",
+        "createdAt": "2022-06-03T10:57:53.628Z",
+        "updatedAt": "2022-06-03T10:57:53.628Z",
+        "name": "Gray/100",
+        "value": {
+            "a": 1,
+            "b": 224,
+            "g": 224,
+            "r": 224
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:42",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "66f03fd4-f7b6-4bfe-8629-a33917fc81aa",
+        "createdAt": "2022-06-03T10:57:53.686Z",
+        "updatedAt": "2022-06-03T10:57:53.686Z",
+        "name": "Gray/200",
+        "value": {
+            "a": 1,
+            "b": 194,
+            "g": 194,
+            "r": 194
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:41",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "ae808d0d-de3a-41c2-a944-430f703e5055",
+        "createdAt": "2022-06-03T10:57:53.549Z",
+        "updatedAt": "2022-06-03T10:57:53.549Z",
+        "name": "Gray/300",
+        "value": {
+            "a": 1,
+            "b": 173,
+            "g": 173,
+            "r": 173
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:40",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "a8a8980e-7675-457f-b4c7-abfdd5e4a14a",
+        "createdAt": "2022-06-03T10:57:53.570Z",
+        "updatedAt": "2022-06-03T10:57:53.570Z",
+        "name": "Gray/400",
+        "value": {
+            "a": 1,
+            "b": 143,
+            "g": 143,
+            "r": 143
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:39",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "f9dee145-1745-48c8-9188-ec8f27b8eed4",
+        "createdAt": "2022-06-03T10:57:53.566Z",
+        "updatedAt": "2022-06-03T10:57:53.566Z",
+        "name": "Gray/500",
+        "value": {
+            "a": 1,
+            "b": 112,
+            "g": 112,
+            "r": 112
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:38",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "16427b1a-546b-45fd-b07b-5e05c10b57f0",
+        "createdAt": "2022-06-03T10:57:53.590Z",
+        "updatedAt": "2022-06-03T10:57:53.590Z",
+        "name": "Gray/600",
+        "value": {
+            "a": 1,
+            "b": 92,
+            "g": 92,
+            "r": 92
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:37",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "1a8f7280-a1b8-484e-8972-5c713753961c",
+        "createdAt": "2022-06-03T10:57:53.603Z",
+        "updatedAt": "2022-06-03T10:57:53.603Z",
+        "name": "Gray/700",
+        "value": {
+            "a": 1,
+            "b": 71,
+            "g": 71,
+            "r": 71
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:36",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "11335be1-38e3-40aa-a185-18f3ce03dd20",
+        "createdAt": "2022-06-03T10:57:53.569Z",
+        "updatedAt": "2022-06-03T10:57:53.569Z",
+        "name": "Gray/800 Base",
+        "value": {
+            "a": 1,
+            "b": 51,
+            "g": 51,
+            "r": 51
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:33",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "05b1aab6-4fae-48c6-ac8e-ce0acfb6b5b6",
+        "createdAt": "2022-06-03T10:57:53.499Z",
+        "updatedAt": "2022-06-03T10:57:53.499Z",
+        "name": "Gray/900",
+        "value": {
+            "a": 1,
+            "b": 31,
+            "g": 31,
+            "r": 31
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:34",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "3f103a70-5e8d-45f8-9e8f-f35e5d564c54",
+        "createdAt": "2022-06-03T10:57:53.688Z",
+        "updatedAt": "2022-06-03T10:57:53.688Z",
+        "name": "Gray/Bright",
+        "value": {
+            "a": 1,
+            "b": 245,
+            "g": 245,
+            "r": 245
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:43",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "f731e30d-b26b-4163-a5c9-1eca1fab3739",
+        "createdAt": "2022-06-03T10:57:53.569Z",
+        "updatedAt": "2022-06-03T10:57:53.569Z",
+        "name": "Gray/Dark",
+        "value": {
+            "a": 1,
+            "b": 10,
+            "g": 10,
+            "r": 10
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:35",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "cf181cff-bf81-413f-b5c1-5f79f266a5a9",
+        "createdAt": "2022-06-02T11:29:38.311Z",
+        "updatedAt": "2022-06-17T08:01:20.849Z",
+        "name": "Inter-Medium",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Google Fonts",
+            "fontFamily": "Inter",
+            "fontWeight": 500,
+            "fontFileMissing": false,
+            "fontPostScriptName": "Inter-Medium",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/c689e945-ea8c-45a6-bc14-a2830caa7a0b/font/Inter-Medium/Inter-Medium.ttf?AWSAccessKeyId=ASIAYLKZPEWONAZRBLTS&Expires=1655456481&Signature=8LTAG31JlufiN2V9r8AUItCpZKw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCymlO2ySIlO9trWFOaAJbDrnylzAztmciFC5Jxv0faywIhAK%2FnWQqxOzZhG43JVPKULOKqiTequC1aHG%2FW1dhS1MkUKvgDCM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMNTc0MTAyNjQ0MTI0IgwFSIt7oPPWrtYjAr0qzANWc%2FWbdYZstYJ4NiqT8qJ1xWXIZMKHOV5wK19j%2FtZ9IpZWTYhFbwu4UH%2FzbnIn%2FidzhnECK%2BTXeeeSHk2Bxv5Ru7Za9En%2FQDbJfTO1FipLck6egogPm6S7ZKEgTmE5YK0gg8UOlmIiEPEY3gsGP64eXzA4rje2wppZJXXCDRKB1DsTXQAaPPdoRNQTbCJBipXgnQbQ2Sd%2B%2F33QjEE1qYjqBUThbPyLPt9SjVeUNZqaMYxFZGJIWab81eAhuT5obUEzJj%2BTbXVhNV%2BYufJwK3ADYiVoM7CHmUtrgE%2BRw3itpZK2pcK8JucEbgffwo2W1k0AN43efijdih2mdwwFbyguafTzl6gK2VaGEyGXRU7HWvjKDTblVosXBSFt5n%2BsjnsI6P633LL8CLIRt0XizQlS99lRI0FzZ3tjAT6yDdZZ3EBODbPH%2BJqBXNkTLibQ%2Fdjxf2%2F%2FLPr7cdYRhnf7H4ZV3dUkJ92pNzZ3DXCVu%2FjEGJdUzv11h7eFZ5z38DBwd8M9VggsnLap0SdcDFX%2F0aUZAEYSD6xX4taR8HKX2%2Fi0gMDIp%2F5oKrEpupitDopzh2bCIZ5p0J57kO1j9BY4JGzQJ0pm0ZrLlWmLe2RkMIujsJUGOqQBHm3HddDW%2BQaU%2BhbtbLKRx3QBwyezPxcUqrlc0nh5FG3tcyuwAPfI1TsmE%2FuLTPEFU%2FiZ1q7dkDrird1%2FmmkgfTDUYYqawzPln5vzYZEl%2FNDJmuJSVN3AN7AyvVBckp3VVNHJDqbx0tCu1lNIDYU8iyIb3Qn3C6V2S8vZxKLYi3d0A8tDg1Ay9AOA%2FRA%2BhppsT5V2WxKegFkGYG3R0P08laDyCw8%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-Medium",
+        "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "a0fea7e3-a493-4f19-9056-0df27054474f",
+        "createdAt": "2022-06-03T10:57:53.623Z",
+        "updatedAt": "2022-06-03T10:57:53.623Z",
+        "name": "Pink/100 Base",
+        "value": {
+            "a": 1,
+            "b": 236,
+            "g": 175,
+            "r": 207
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:77",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "8924f716-bf21-4113-97f4-423ee089511e",
+        "createdAt": "2022-06-03T10:57:53.689Z",
+        "updatedAt": "2022-06-03T10:57:53.689Z",
+        "name": "Pink/200",
+        "value": {
+            "a": 1,
+            "b": 232,
+            "g": 154,
+            "r": 196
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:76",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "480da4d5-fb77-4222-a141-4ed6ae0f099f",
+        "createdAt": "2022-06-03T10:57:53.628Z",
+        "updatedAt": "2022-06-03T10:57:53.628Z",
+        "name": "Pink/300",
+        "value": {
+            "a": 1,
+            "b": 221,
+            "g": 106,
+            "r": 166
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:75",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "de9db400-9385-40d3-a78f-7e619ac3150d",
+        "createdAt": "2022-06-03T10:57:53.542Z",
+        "updatedAt": "2022-06-03T10:57:53.542Z",
+        "name": "Pink/400",
+        "value": {
+            "a": 1,
+            "b": 214,
+            "g": 75,
+            "r": 148
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:74",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "a923ea92-385a-4d62-9802-6a01fb144f37",
+        "createdAt": "2022-06-03T10:57:53.598Z",
+        "updatedAt": "2022-06-03T10:57:53.598Z",
+        "name": "Pink/500",
+        "value": {
+            "a": 1,
+            "b": 185,
+            "g": 49,
+            "r": 119
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:73",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "50ab4bc9-33dc-42d9-b0b9-0cc439058806",
+        "createdAt": "2022-06-03T10:57:53.591Z",
+        "updatedAt": "2022-06-03T10:57:53.591Z",
+        "name": "Pink/600",
+        "value": {
+            "a": 1,
+            "b": 151,
+            "g": 39,
+            "r": 97
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:72",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "7018fddb-9587-4d74-b528-3904e5aba159",
+        "createdAt": "2022-06-03T10:57:53.616Z",
+        "updatedAt": "2022-06-03T10:57:53.616Z",
+        "name": "Pink/700",
+        "value": {
+            "a": 1,
+            "b": 117,
+            "g": 31,
+            "r": 76
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:71",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "f35a00fe-7b35-45e5-84a4-7cf2add8323a",
+        "createdAt": "2022-06-03T10:57:53.686Z",
+        "updatedAt": "2022-06-03T10:57:53.686Z",
+        "name": "Pink/800",
+        "value": {
+            "a": 1,
+            "b": 84,
+            "g": 21,
+            "r": 54
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:70",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "63121b92-d866-4f70-9c41-82a49c38e1f4",
+        "createdAt": "2022-06-03T10:57:53.591Z",
+        "updatedAt": "2022-06-03T10:57:53.591Z",
+        "name": "Pink/900",
+        "value": {
+            "a": 1,
+            "b": 50,
+            "g": 13,
+            "r": 33
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:69",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "80445b4c-77dc-423a-a8dd-9d862106287b",
+        "createdAt": "2022-06-03T10:57:53.499Z",
+        "updatedAt": "2022-06-03T10:57:53.499Z",
+        "name": "Pink/Bright",
+        "value": {
+            "a": 1,
+            "b": 251,
+            "g": 238,
+            "r": 245
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:78",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "be97a8a5-6144-4a04-91d7-b8302f6a104d",
+        "createdAt": "2022-06-03T10:57:53.629Z",
+        "updatedAt": "2022-06-03T10:57:53.629Z",
+        "name": "Pink/Dark",
+        "value": {
+            "a": 1,
+            "b": 16,
+            "g": 3,
+            "r": 10
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:68",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "59503885-3eee-48ac-8180-b834b73f278c",
+        "createdAt": "2022-06-03T13:53:32.722Z",
+        "updatedAt": "2022-06-17T08:01:20.849Z",
+        "name": "SFProDisplay-Medium",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Custom font",
+            "fontFamily": "SF Pro Display",
+            "fontWeight": 500,
+            "fontFileMissing": true,
+            "fontPostScriptName": "SFProDisplay-Medium",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/c689e945-ea8c-45a6-bc14-a2830caa7a0b/font/SFProDisplay-Medium/SFProDisplay-Medium.ttf?AWSAccessKeyId=ASIAYLKZPEWONAZRBLTS&Expires=1655456481&Signature=ELZ0GXcR0Xe9s0v2QgfGlH7oJvk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCymlO2ySIlO9trWFOaAJbDrnylzAztmciFC5Jxv0faywIhAK%2FnWQqxOzZhG43JVPKULOKqiTequC1aHG%2FW1dhS1MkUKvgDCM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMNTc0MTAyNjQ0MTI0IgwFSIt7oPPWrtYjAr0qzANWc%2FWbdYZstYJ4NiqT8qJ1xWXIZMKHOV5wK19j%2FtZ9IpZWTYhFbwu4UH%2FzbnIn%2FidzhnECK%2BTXeeeSHk2Bxv5Ru7Za9En%2FQDbJfTO1FipLck6egogPm6S7ZKEgTmE5YK0gg8UOlmIiEPEY3gsGP64eXzA4rje2wppZJXXCDRKB1DsTXQAaPPdoRNQTbCJBipXgnQbQ2Sd%2B%2F33QjEE1qYjqBUThbPyLPt9SjVeUNZqaMYxFZGJIWab81eAhuT5obUEzJj%2BTbXVhNV%2BYufJwK3ADYiVoM7CHmUtrgE%2BRw3itpZK2pcK8JucEbgffwo2W1k0AN43efijdih2mdwwFbyguafTzl6gK2VaGEyGXRU7HWvjKDTblVosXBSFt5n%2BsjnsI6P633LL8CLIRt0XizQlS99lRI0FzZ3tjAT6yDdZZ3EBODbPH%2BJqBXNkTLibQ%2Fdjxf2%2F%2FLPr7cdYRhnf7H4ZV3dUkJ92pNzZ3DXCVu%2FjEGJdUzv11h7eFZ5z38DBwd8M9VggsnLap0SdcDFX%2F0aUZAEYSD6xX4taR8HKX2%2Fi0gMDIp%2F5oKrEpupitDopzh2bCIZ5p0J57kO1j9BY4JGzQJ0pm0ZrLlWmLe2RkMIujsJUGOqQBHm3HddDW%2BQaU%2BhbtbLKRx3QBwyezPxcUqrlc0nh5FG3tcyuwAPfI1TsmE%2FuLTPEFU%2FiZ1q7dkDrird1%2FmmkgfTDUYYqawzPln5vzYZEl%2FNDJmuJSVN3AN7AyvVBckp3VVNHJDqbx0tCu1lNIDYU8iyIb3Qn3C6V2S8vZxKLYi3d0A8tDg1Ay9AOA%2FRA%2BhppsT5V2WxKegFkGYG3R0P08laDyCw8%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "SFProDisplay-Medium",
+        "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "f4303e22-4788-4b08-8148-1c6fd58f955d",
+        "createdAt": "2022-06-03T13:56:29.595Z",
+        "updatedAt": "2022-06-17T08:01:20.849Z",
+        "name": "SFProDisplay-Regular",
+        "value": {
+            "format": "ttf",
+            "isItalic": false,
+            "provider": "Custom font",
+            "fontFamily": "SF Pro Display",
+            "fontWeight": 400,
+            "fontFileMissing": true,
+            "fontPostScriptName": "SFProDisplay-Regular",
+            "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/c689e945-ea8c-45a6-bc14-a2830caa7a0b/font/SFProDisplay-Regular/SFProDisplay-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWONAZRBLTS&Expires=1655456481&Signature=HRv0Eo%2BVHtMS0IfrXhwnL6P3%2BoQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCymlO2ySIlO9trWFOaAJbDrnylzAztmciFC5Jxv0faywIhAK%2FnWQqxOzZhG43JVPKULOKqiTequC1aHG%2FW1dhS1MkUKvgDCM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMNTc0MTAyNjQ0MTI0IgwFSIt7oPPWrtYjAr0qzANWc%2FWbdYZstYJ4NiqT8qJ1xWXIZMKHOV5wK19j%2FtZ9IpZWTYhFbwu4UH%2FzbnIn%2FidzhnECK%2BTXeeeSHk2Bxv5Ru7Za9En%2FQDbJfTO1FipLck6egogPm6S7ZKEgTmE5YK0gg8UOlmIiEPEY3gsGP64eXzA4rje2wppZJXXCDRKB1DsTXQAaPPdoRNQTbCJBipXgnQbQ2Sd%2B%2F33QjEE1qYjqBUThbPyLPt9SjVeUNZqaMYxFZGJIWab81eAhuT5obUEzJj%2BTbXVhNV%2BYufJwK3ADYiVoM7CHmUtrgE%2BRw3itpZK2pcK8JucEbgffwo2W1k0AN43efijdih2mdwwFbyguafTzl6gK2VaGEyGXRU7HWvjKDTblVosXBSFt5n%2BsjnsI6P633LL8CLIRt0XizQlS99lRI0FzZ3tjAT6yDdZZ3EBODbPH%2BJqBXNkTLibQ%2Fdjxf2%2F%2FLPr7cdYRhnf7H4ZV3dUkJ92pNzZ3DXCVu%2FjEGJdUzv11h7eFZ5z38DBwd8M9VggsnLap0SdcDFX%2F0aUZAEYSD6xX4taR8HKX2%2Fi0gMDIp%2F5oKrEpupitDopzh2bCIZ5p0J57kO1j9BY4JGzQJ0pm0ZrLlWmLe2RkMIujsJUGOqQBHm3HddDW%2BQaU%2BhbtbLKRx3QBwyezPxcUqrlc0nh5FG3tcyuwAPfI1TsmE%2FuLTPEFU%2FiZ1q7dkDrird1%2FmmkgfTDUYYqawzPln5vzYZEl%2FNDJmuJSVN3AN7AyvVBckp3VVNHJDqbx0tCu1lNIDYU8iyIb3Qn3C6V2S8vZxKLYi3d0A8tDg1Ay9AOA%2FRA%2BhppsT5V2WxKegFkGYG3R0P08laDyCw8%3D"
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "SFProDisplay-Regular",
+        "sourceId": "3015cc3f-a1c6-41c1-98ca-36af04019f16",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "2cd89697-e067-437a-bc1e-ef3a5ba8e329",
+        "createdAt": "2022-06-02T11:00:33.968Z",
+        "updatedAt": "2022-06-02T11:00:33.968Z",
+        "name": "Style/Black",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "111:12",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "ea1b8fc2-ea09-4562-9809-a0186cd93ff7",
+        "createdAt": "2022-06-02T11:00:33.987Z",
+        "updatedAt": "2022-06-02T11:00:33.987Z",
+        "name": "Style/Blue",
+        "value": {
+            "a": 1,
+            "b": 196,
+            "g": 37,
+            "r": 40
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "111:13",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "ec97e844-a9e8-4414-965d-1b9564d2fcf1",
+        "createdAt": "2022-06-02T11:00:33.984Z",
+        "updatedAt": "2022-06-02T11:00:33.984Z",
+        "name": "Style/Pink",
+        "value": {
+            "a": 1,
+            "b": 241,
+            "g": 172,
+            "r": 214
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "111:14",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "22752111-42c6-409c-86ac-c4bb8aae93de",
+        "createdAt": "2022-06-02T11:00:33.989Z",
+        "updatedAt": "2022-06-02T11:00:33.989Z",
+        "name": "Style/Red",
+        "value": {
+            "a": 1,
+            "b": 56,
+            "g": 81,
+            "r": 213
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "111:16",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "48ad6147-46d6-43d2-81fc-83d467070be3",
+        "createdAt": "2022-06-03T10:57:53.628Z",
+        "updatedAt": "2022-06-03T10:57:53.628Z",
+        "name": "Style/White",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "140:400",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "b1fe4287-dabd-473c-907e-74e3a5ace9a0",
+        "createdAt": "2022-06-02T11:00:33.986Z",
+        "updatedAt": "2022-06-02T11:00:33.986Z",
+        "name": "Style/Yellow",
+        "value": {
+            "a": 1,
+            "b": 66,
+            "g": 193,
+            "r": 246
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "111:15",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "c88de63d-0248-41fc-be46-6fad7be20219",
+        "createdAt": "2022-06-03T10:57:53.569Z",
+        "updatedAt": "2022-06-03T10:57:53.569Z",
+        "name": "Text/Black",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:136",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "12f3abab-c21c-4711-93a9-55aae9b51358",
+        "createdAt": "2022-06-07T08:19:37.937Z",
+        "updatedAt": "2022-06-07T08:19:37.937Z",
+        "name": "Text/Bright Pink",
+        "value": {
+            "a": 1,
+            "b": 246,
+            "g": 66,
+            "r": 242
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "234:349",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "5463e79e-d25f-4302-ba12-c05f1fe0a4aa",
+        "createdAt": "2022-06-03T10:57:53.558Z",
+        "updatedAt": "2022-06-03T10:57:53.558Z",
+        "name": "Text/Gray",
+        "value": {
+            "a": 1,
+            "b": 112,
+            "g": 112,
+            "r": 112
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:137",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "e41d60ff-bfc3-4bf6-82bc-4328b2469ab3",
+        "createdAt": "2022-06-07T08:19:37.937Z",
+        "updatedAt": "2022-06-07T08:19:37.937Z",
+        "name": "Text/Green",
+        "value": {
+            "a": 1,
+            "b": 95,
+            "g": 246,
+            "r": 66
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "234:348",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "1c4b4861-3bd7-48bd-8562-b3ecbd5738db",
+        "createdAt": "2022-06-02T11:00:33.956Z",
+        "updatedAt": "2022-06-02T11:00:33.956Z",
+        "name": "Text/Pink",
+        "value": {
+            "a": 1,
+            "b": 241,
+            "g": 172,
+            "r": 214
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "105:8",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "edeb9381-dade-47f0-b42a-d72c859e303b",
+        "createdAt": "2022-06-02T11:00:33.966Z",
+        "updatedAt": "2022-06-02T11:32:25.098Z",
+        "name": "Text/White",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "105:9",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "baa9592b-3cb0-4fb6-a4c1-8d65317286f6",
+        "createdAt": "2022-06-02T11:00:33.984Z",
+        "updatedAt": "2022-06-02T11:00:33.984Z",
+        "name": "Text/Yellow",
+        "value": {
+            "a": 1,
+            "b": 66,
+            "g": 193,
+            "r": 246
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "110:13",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "a76194ab-7828-4ad1-9f88-ffbca643c97e",
+        "createdAt": "2022-06-07T08:21:24.237Z",
+        "updatedAt": "2022-06-16T08:01:31.372Z",
+        "name": "Vector",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7191b3cf-a277-492b-acb2-ccd480148dc1",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "test token",
+            "page": "Page",
+            "frame": "Vector",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "arrow-bigarrow / right"
+        },
+        "type": "vector",
+        "originId": "147:432-svg-1",
+        "sourceId": "6d8122e2-a13a-4c3b-8232-a2c855dc22d1",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "bd56e610-33da-4c96-8a75-96f7fd444ddf",
+        "createdAt": "2022-06-03T10:57:53.690Z",
+        "updatedAt": "2022-06-03T10:57:53.690Z",
+        "name": "Yellow/100",
+        "value": {
+            "a": 1,
+            "b": 201,
+            "g": 235,
+            "r": 249
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:99",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "6e24da3c-efaf-4c04-aae1-b8be59b8009d",
+        "createdAt": "2022-06-03T10:57:53.569Z",
+        "updatedAt": "2022-06-03T10:57:53.569Z",
+        "name": "Yellow/200",
+        "value": {
+            "a": 1,
+            "b": 166,
+            "g": 223,
+            "r": 245
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:98",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "ea684006-2e7e-4d49-a58f-355af6c498a6",
+        "createdAt": "2022-06-03T10:57:53.499Z",
+        "updatedAt": "2022-06-03T10:57:53.499Z",
+        "name": "  Yellow/300",
+        "value": {
+            "a": 1,
+            "b": 132,
+            "g": 210,
+            "r": 244
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:97",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "bffecd08-f33f-459c-94b4-d19fcb0772e2",
+        "createdAt": "2022-06-03T10:57:53.552Z",
+        "updatedAt": "2022-06-03T10:57:53.552Z",
+        "name": "Yellow/400 Base",
+        "value": {
+            "a": 1,
+            "b": 91,
+            "g": 194,
+            "r": 239
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:96",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "1b3b036a-6f1e-423a-9934-3f75e92bffaa",
+        "createdAt": "2022-06-03T10:57:53.590Z",
+        "updatedAt": "2022-06-03T10:57:53.590Z",
+        "name": "Yellow/500",
+        "value": {
+            "a": 1,
+            "b": 75,
+            "g": 185,
+            "r": 237
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:95",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "27d2d5ae-ef59-40ea-922b-acb80d80a43a",
+        "createdAt": "2022-06-03T10:57:53.617Z",
+        "updatedAt": "2022-06-03T10:57:53.617Z",
+        "name": "Yellow/600",
+        "value": {
+            "a": 1,
+            "b": 54,
+            "g": 155,
+            "r": 206
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:94",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "56c31d54-e133-4336-8384-4a9f31a41040",
+        "createdAt": "2022-06-03T10:57:53.688Z",
+        "updatedAt": "2022-06-03T10:57:53.688Z",
+        "name": "Yellow/700",
+        "value": {
+            "a": 1,
+            "b": 38,
+            "g": 112,
+            "r": 149
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:93",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "d133999d-a887-4bba-8aad-df453e77a472",
+        "createdAt": "2022-06-03T10:57:53.499Z",
+        "updatedAt": "2022-06-03T10:57:53.499Z",
+        "name": "Yellow/800",
+        "value": {
+            "a": 1,
+            "b": 22,
+            "g": 70,
+            "r": 93
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:92",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "ab5b9d19-7ab5-4da4-a52c-fb502be42c7c",
+        "createdAt": "2022-06-03T10:57:53.655Z",
+        "updatedAt": "2022-06-03T10:57:53.655Z",
+        "name": "Yellow/900",
+        "value": {
+            "a": 1,
+            "b": 11,
+            "g": 43,
+            "r": 56
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:91",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "c45694ed-b07e-4171-9335-682dc8e80f08",
+        "createdAt": "2022-06-03T10:57:53.499Z",
+        "updatedAt": "2022-06-03T10:57:53.499Z",
+        "name": "Yellow/Bright",
+        "value": {
+            "a": 1,
+            "b": 237,
+            "g": 249,
+            "r": 253
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:100",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    },
+    {
+        "id": "4e0adf70-6844-47aa-ad25-b158dd81b5ad",
+        "createdAt": "2022-06-03T10:57:53.684Z",
+        "updatedAt": "2022-06-03T10:57:53.684Z",
+        "name": "Yellow/Dark",
+        "value": {
+            "a": 1,
+            "b": 2,
+            "g": 14,
+            "r": 18
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "139:90",
+        "sourceId": "4e1365e9-7f3a-4939-a407-d9705656cf47",
+        "repositoryId": "c689e945-ea8c-45a6-bc14-a2830caa7a0b"
+    }
+]
